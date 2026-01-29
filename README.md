@@ -10,7 +10,7 @@ The portfolio highlights projects focused on:
 
 ## 🔗 Live Portfolio
 
-👉 **[View Portfolio Website](https://anikett115.github.io/anikett-aman-portfolio/)**
+👉 **[View Portfolio Website](https://anikett-aman-portfolio.netlify.app/)**
 
 ## Featured Projects
 - **NHANES Statistical Inference** – Sampling distributions, confidence intervals, hypothesis testing  
