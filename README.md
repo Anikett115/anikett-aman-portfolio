@@ -8,9 +8,9 @@ The portfolio highlights projects focused on:
 - Python for data cleaning, EDA, and modeling  
 - Power BI dashboards and business intelligence  
 
-## Live Portfolio
-**[View Portfolio Website](https://anikett115.github.io/anikett-aman-portfolio/)**  
-*(Update link if different)*
+## 🔗 Live Portfolio
+
+👉 **[View Portfolio Website](https://anikett115.github.io/anikett-aman-portfolio/)**
 
 ## Featured Projects
 - **NHANES Statistical Inference** – Sampling distributions, confidence intervals, hypothesis testing  
